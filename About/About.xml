@@ -5,11 +5,11 @@
 	<packageId>Mehni.AllYourBase</packageId>
 	<supportedVersions>
 		<li>1.2</li>
+		<li>1.4</li>
 	</supportedVersions>
-	<url>https://github.com/RimWorld-CCL-Reborn/AllYourBase</url>
-	<description>Version: 1.1. Finds and detects (mis-)usage of abstract bases.
-
-Usage:
-	Load order is irrelevant. AllYourBase will spit out yellow warnings with the exact mod, XML node and file that misbehaves.
-	If you enable Verbose Logging, AllYourBase will attempt to fix overwrites. Sometimes this makes it worse. Use Steam's handy Verify File Integrity if that happens.</description>
+	<url>https://github.com/paulo27ms/AllYourBasesAndDefs</url>
+	<description>
+	Usage:
+	Load order is irrelevant. AllYourBase will spit out messages with the exact mod, XML node and file that misbehaves. Yellow warnings for def overwrites, red for base overwrites.
+	</description>
 </ModMetaData>
